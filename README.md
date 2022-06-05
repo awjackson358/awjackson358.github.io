@@ -1,20 +1,9 @@
 
-# Alan Jackson
-
-## Contact:
-Email: awjackson358[at]gmail.com
-
-Twitter: @awjackson358
-
-GitHub: /awjackson358
-
-Kaggle: /awjackson358
-
-## About:
 
 Data analytics appeals to my natural curiosity. I find formulating the questions and deriving the insights or  "ah-ha moments" from any particular dataset rewarding. Medical research and public policy are of particular interest to me as these are spaces I believe data science will benefit society. 
 
-### Career summary
+---
+##### Career summary
 
 Restaurant employee, 5 years
 > Worked for a number of restaurants during my teens and  early twenties where I gained experience in various aspects of the dining industry.
@@ -28,3 +17,7 @@ Managing partner for a cafe bookstore , 3 years
 Founder, volunteer project focused on communications and events, 5 years
 > Worked with a small team focused on micro-publishing print content, and hosting public events.
 
+---
+
+[GitHub](https://github.com/awjackson358) |
+[Twitter](https://twitter.com/awjackson358)
